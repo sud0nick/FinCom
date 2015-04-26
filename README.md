@@ -1,6 +1,6 @@
 # FinCom
 
-FinCom is a financial tracking and management application loaded with options. This app is completely free and open source so feel free to download it, pass it around, or even modify the code yourself.
+FinCom is a financial tracking and management application for OS X.
 
 Current features include:
 
